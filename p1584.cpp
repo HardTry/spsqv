@@ -1,3 +1,5 @@
+//Uva1584, problem=4459
+//SeanGo
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
